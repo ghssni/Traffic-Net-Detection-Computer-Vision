@@ -21,7 +21,7 @@ This repository explored the classification of traffic conditions and incidents 
 ## File Description
 - `Traffic_Net_Detection.ipynb` : Jupyter Notebook containing the code used for data cleaning, exploratory data analysis, feature engineering, model training & evaluation and model improvement.
 - `Traffic_Net_Detection_Inference.ipynb` : Jupyter Notebook containing the code for model inference testing.
-- `model_seq.h5` : Best Model with Best Parameter
+- `url_model` : URL Best Model with Best Parameter
 
 ## Algorithm Used
 - Sequential API
