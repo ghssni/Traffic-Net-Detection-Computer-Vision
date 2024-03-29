@@ -29,17 +29,20 @@ This repository explored the classification of traffic conditions and incidents 
 
 ## Dataset Class Characteristics
 ---
+Sparse Traffic
 ![Sparse Traffic](./images/sparse.png)
 The Sparse Traffic class category is characterized by:
 - Slow streets
 - Not many vehicles are captured in the image
 - No congestion
 ---
+Dense Traffic
 ![Dense Traffic](./images/dense.png)
 The Dense Traffic class category is characterized by:
 - Congestion on the road
 - Congestion is detected by the number of vehicles captured in the image
 ---
+Accident
 ![Accident](./images/accident.png)
 The accident class category is characterized by:
 - An overturned vehicle
@@ -47,6 +50,7 @@ The accident class category is characterized by:
 - Vehicles that collided
 If we look at the image above, most of the vehicles labeled as accident are collided, so the image usually consists of 2 vehicles.
 ---
+Fire
 ![Fire](./images/fire.png)
 The Fire class category is characterized by:
 - the presence of fire in the image
