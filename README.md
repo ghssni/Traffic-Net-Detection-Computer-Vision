@@ -84,7 +84,7 @@ The model can be used to develop an accident detection system that can help emer
 
 The model can be used to develop a Traffict prediction system that can provide real-time information to drivers about traffic conditions.
 
-Route Recommendation System:`
+`Route Recommendation System:`
 
 The model can be used to develop a route recommendation system that can help drivers find the best route to reach their destination.
 
